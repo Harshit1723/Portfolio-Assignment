@@ -1,0 +1,9 @@
+@import "default/variable";
+@import "default/typography";
+@import "default/spacing";
+@import "default/general";
+@import "../components/Button/Button.scss";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
